@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\bin\Debug\netcoreapp3.1\Jsontask.exe
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\bin\Debug\netcoreapp3.1\Jsontask.deps.json
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\bin\Debug\netcoreapp3.1\Jsontask.runtimeconfig.json
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\bin\Debug\netcoreapp3.1\Jsontask.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\bin\Debug\netcoreapp3.1\Jsontask.dll
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\bin\Debug\netcoreapp3.1\Jsontask.pdb
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.AssemblyInfo.cs
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.csproj.CopyComplete
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.dll
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.pdb
+C:\Users\Admin\Desktop\home work\Jsontask\Jsontask\obj\Debug\netcoreapp3.1\Jsontask.genruntimeconfig.cache
